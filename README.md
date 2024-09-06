@@ -19,7 +19,3 @@ Bu proje kullanıcıların ayakkabıları cinsiyete, numaraya ve renklere bağl�
 -react-toastify
 
 -tailwind
-
-## GIF
-
-![shoesapp.gif](./src/assets/shoesapp.gif)
