@@ -20,4 +20,6 @@ Bu proje kullanıcıların ayakkabıları cinsiyete, numaraya ve renklere bağl�
 
 -tailwind
 
+## GIF
+
 ![gif](./src/assets/shoesapp.gif)
